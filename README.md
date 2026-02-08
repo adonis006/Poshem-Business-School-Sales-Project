@@ -1,0 +1,1 @@
+The file contains a detailed analysis of Poshem Business School Sales Data by Poshem Technologies. The analysis is based on a data challenge created by Poshem Technologies for Data enthusiasts and it has been nothing short of challenging as it should be and informative.
